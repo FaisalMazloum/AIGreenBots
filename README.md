@@ -20,11 +20,7 @@ This workspace integrates the following core modules for USV swarm operations:
 ---
 
 ## 🇪🇺 Acknowledgments
-
-
-| | |
-| :--- | :--- |
-| <img src="https://european-union.europa.eu" width="100"> | This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions (MSCA) grant agreement No **101169330**. |
+This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions (MSCA) grant agreement No **101169330**. |
 
 ---
 © 2024 Faisal Mazloum - AIGreenBots Project
