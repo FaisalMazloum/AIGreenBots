@@ -1,0 +1,6 @@
+[submodule "WP3-USV-Digital-Twin"]
+	path = WP3-USV-Digital-Twin
+	url = https://github.com/FaisalMazloum/WP3-USV-Digital-Twin.git
+[submodule "WP3-Self-Diagnosis-Toolkit"]
+	path = WP3-Self-Diagnosis-Toolkit
+	url = https://github.com/FaisalMazloum/WP3-Self-Diagnosis-Toolkit.git
