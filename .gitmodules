@@ -4,6 +4,6 @@
 [submodule "WP3-Self-Diagnosis-Toolkit"]
 	path = WP3-Self-Diagnosis-Toolkit
 	url = https://github.com/FaisalMazloum/WP3-Self-Diagnosis-Toolkit.git
-[submodule "AIGreenBots"]
-	path = AIGreenBots
-	url = https://github.com/FaisalMazloum/AIGreenBots.git
+[submodule "ROS2swarm_adjusted"]
+	path = ROS2swarm_adjusted
+	url = https://github.com/FaisalMazloum/ROS2swarm_adjusted.git
